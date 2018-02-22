@@ -4,6 +4,7 @@ public class Bank {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
 		//Customer c1=new Customer("Ashitosh");
 		BankAccount b1=new BankAccount(001,"Ashitosh",1000);
 		BankAccount b2=new BankAccount(002,"jessio",1000);
