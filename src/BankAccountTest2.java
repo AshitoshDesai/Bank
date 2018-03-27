@@ -22,7 +22,7 @@ public class BankAccountTest2 {
 	public void testGetCustomerName() {
 		//fail("Not yet implemented");
 		
-		assertEquals("Ashitosh",b1.getCustomerName());
+		assertEquals("Ashi",b1.getCustomerName());
 	}
 
 	@Test
